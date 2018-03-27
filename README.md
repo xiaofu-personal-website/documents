@@ -7,7 +7,7 @@
 开发时前后端分离：[前端源码](https://github.com/xiaofu-personal-website/front-end) [后端源码](https://github.com/xiaofu-personal-website/back-end)       
 
 ## 项目成员       
- - 郭晓芙 tel: 18826073576, email: 377625928@qq.com, github:[github.com/xiaofu-personal-website](https://github.com/xiaofu-personal-website)            
+ - 郭晓芙 tel: 18826073576, email: 377625928@qq.com, github:[github.com/xfxfxfxfxf](https://https://github.com/xfxfxfxfxf)            
 
 ## 文档               
  - [需求文档](./docs/requirements-documentation.md)        
